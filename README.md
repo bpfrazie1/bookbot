@@ -1,2 +1,2 @@
 # bookbot
-Analyzes books
+BookBot is my first git project!
